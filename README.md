@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as an intern at [Arcon](arconnet.com), a Mumbai-based Cybersecurity company.
 - 🌱 I’m currently learning WPF (for Desktop App Development) and ASP.NET (Web Development) using C#.
-- 👯 I’m looking to collaborate on Open Source Projects, particularly in those using C++ / Python / JavaScript / Haskell.
+- 👯 I’m would love to contribute to Open Source Projects, particularly in those using C++ / Python / JavaScript / Haskell.
 - 📫 How to reach me: 
   - Email: sohangchopra@gmail.com
   - Linkedin: www.linkedin.com/in/sohang-chopra
