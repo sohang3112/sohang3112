@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning WPF (for Desktop App Development) and ASP.NET (Web Development) using C#.
 - 👯 I’m looking to collaborate on Open Source Projects, particularly in those using C++ / Python / JavaScript / Haskell.
 - 📫 How to reach me: 
-  - My Email: sohangchopra@gmail.com
-  - My Linkedin: www.linkedin.com/in/sohang-chopra
+  - Email: sohangchopra@gmail.com
+  - Linkedin: www.linkedin.com/in/sohang-chopra
+  - Reddit: https://www.reddit.com/user/sohang-3112
 - ⚡ Fun fact: Haskell is an amazing programming language! (Pure Functional Programming rocks - just try it!)
 
 <!--
