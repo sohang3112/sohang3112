@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as an intern at [Arcon](arconnet.com), a Mumbai-based Cybersecurity company.
+- 🌱 I’m currently learning WPF (for Desktop App Development) and ASP.NET (Web Development) using C#.
+- 👯 I’m looking to collaborate on Open Source Projects, particularly in those using C++ / Python / JavaScript / Haskell.
+- 📫 How to reach me: 
+  - My Email: sohangchopra@gmail.com
+  - My Linkedin: www.linkedin.com/in/sohang-chopra
+- ⚡ Fun fact: Haskell is an amazing programming language! (Pure Functional Programming rocks - just try it!)
+
 <!--
 **sohang3112/sohang3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
