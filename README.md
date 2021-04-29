@@ -9,6 +9,7 @@
   - Email: sohangchopra@gmail.com
   - Linkedin: www.linkedin.com/in/sohang-chopra
   - Reddit: https://www.reddit.com/user/sohang-3112
+  - Resume: https://sohang3112.github.io/resume.html
 - ⚡ Fun fact: Haskell is an amazing programming language! (Pure Functional Programming rocks - just try it!)
 
 <!--
