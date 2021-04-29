@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as an intern at [Arcon](arconnet.com), a Mumbai-based Cybersecurity company.
 - 🌱 I’m currently learning WPF (for Desktop App Development) and ASP.NET (Web Development) using C#.
 - 🎓 I'm a final year student of Electrical Engineering (specializing in Computer Science) 
-     at Dayalbagh Educational Institute (DEI), Agra, Uttar Pradesh, India⌈
+     at Dayalbagh Educational Institute (DEI), Agra, Uttar Pradesh, India
 - 👯 I would love to contribute to Open Source Projects, particularly in those using C++ / Python / JavaScript / Haskell.
 - 📫 How to reach me: 
   - Email: sohangchopra@gmail.com
