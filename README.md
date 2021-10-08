@@ -2,8 +2,8 @@
 
 - 🔭 I’m about to start working on my Final Year Project at college, which is related to Plagiarism Detection.
 - 🌱 I’m currently learning Statistics and APL (Programming Language) using the excellent book [Computational Statistics using APL](http://www.softwarepreservation.org/projects/apl/Books/198100_APL-STAT.pdf/view).
-- 🎓 I'm a final year student of Electrical Engineering (specializing in Computer Science) 
-     at Dayalbagh Educational Institute (DEI), Agra, Uttar Pradesh, India
+- 🎓 I'm a final year student of Electrical Engineering (specializing in Computer Science) at 
+  [Dayalbagh Educational Institute (DEI), Agra, Uttar Pradesh, India](https://www.dei.ac.in).
 - 👯 I would love to contribute to Open Source Projects, particularly in those using Haskell / Python / JavaScript / C++ / C#.
 - 🤔 I’m looking for help with finding a Software Development job, which I can join after finishing college in 2022.
 - 📫 How to reach me: 
