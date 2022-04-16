@@ -11,7 +11,8 @@
   - Email: sohangchopra@gmail.com
   - Linkedin: www.linkedin.com/in/sohang-chopra
   - Reddit: https://www.reddit.com/user/sohang-3112
-  - Rosetta Code: https://rosettacode.org/wiki/User_talk:Sohang (This is a website where you can find out how to do the same task in different programming languages. I have uploaded some solutions in Racket and Clojure.)
+  - Rosetta Code: https://rosettacode.org/wiki/User_talk:Sohang 
+      - This is a website where you can find out how to do the same task in different programming languages. I have uploaded some solutions in Racket and Clojure.
 - ⚡ Fun fact: Haskell is an amazing programming language! (Pure Functional Programming rocks - just try it!)
 - ⚡ Also, Code Golf using [APL](https://tryapl.org) is too much fun - [try it!](https://codegolf.stackexchange.com)
 
