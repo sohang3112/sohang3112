@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning Statistics and APL (Programming Language) using the excellent book [Computational Statistics using APL](http://www.softwarepreservation.org/projects/apl/Books/198100_APL-STAT.pdf/view).
 - 🌱 I’m also learning Rust, Clojure languages using [Exercises from Exercism.io](https://exercism.org/tracks/rust).
+- 🌱 I'm also learning [Forth](https://www.forth.com/forth/), an old stack-based language that is mostly used in embedded development (and other resource-constrained environments).
 - 🎓 I'm about to graduate in Electrical Engineering (specializing in Computer Science) at 
   [Dayalbagh Educational Institute (DEI), Agra, Uttar Pradesh, India](https://www.dei.ac.in).
 - 👯 I would love to contribute to Open Source Projects, particularly in those using Haskell / Python / JavaScript / C++ / C#.
