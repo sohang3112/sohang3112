@@ -1,4 +1,8 @@
 ### 👋 Hello Everyone! I'm Sohang Chopra
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohang3112&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- TODO: Show more languages here -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohang3112&hide=SCSS&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning Statistics and APL (Programming Language) using the excellent book [Computational Statistics using APL](http://www.softwarepreservation.org/projects/apl/Books/198100_APL-STAT.pdf/view).
 - 🌱 I’m also learning Rust, Clojure languages using [Exercises from Exercism.io](https://exercism.org/tracks/rust).
