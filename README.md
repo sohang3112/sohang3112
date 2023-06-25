@@ -9,7 +9,7 @@ Commenting this out because it's showing bad score right now :(
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohang3112&hide=SCSS&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💼 I am a Software Engineer at [MFilterIt](https://www.mfilterit.com/), where I build data science apis using Python and AWS.
-- 👯 I love contributing to Open Source - for example, I forked & revived this abandond project: [IForth (Jupyter Kernel for Forth language)](https://github.com/sohang3112/iforth).
+- 👯 I love contributing to Open Source - for example, I forked & revived this abandoned project: [IForth (Jupyter Kernel for Forth language)](https://github.com/sohang3112/iforth).
 - 🌱 I’m learning Rust & Clojure using [Exercises from Exercism.io](https://exercism.org/tracks/rust).
 - 📫 How to reach me: 
   - Email: sohangchopra@gmail.com
