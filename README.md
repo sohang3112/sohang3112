@@ -23,7 +23,8 @@ Commenting this out because it's showing bad score right now :(
       - I have uploaded some solutions in Racket and Clojure.
 -->
 - ⚡ Code Golf using [APL](https://tryapl.org) is too much fun - [try it!](https://codegolf.stackexchange.com)
-- ⚡ **PS:** I love to read 🙂
+- ⚡ I love to read a diverse range of genres, both fiction & non-fiction.
+- ⚡ My favorite sport is chess - I'm always ready for a chess match ! 🙂
 
 <!--
 **sohang3112/sohang3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
