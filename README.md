@@ -9,13 +9,15 @@ Commenting this out because it's showing bad score right now :(
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohang3112&hide=SCSS&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 💼 Work Experience
-I am a Software Engineer at [MFilterIt](https://www.mfilterit.com/), where I build data science APIs using Python and AWS.
+I am a Software Engineer at [MFilterIt](https://www.mfilterit.com/), where I build data science & machine learning APIs using Python and AWS.
 
 #### 👯 Open Source Contributions
-I love contributing to Open Source - for example, I forked & revived this abandoned project: [IForth (Jupyter Kernel for Forth language)](https://github.com/sohang3112/iforth).
+- I forked & revived this abandoned project: [IForth (Jupyter Kernel for Forth language)](https://github.com/sohang3112/iforth).
+- Recently [my pull request](https://github.com/python/typeshed/pull/10735) to add Python typing stubs for `Flask-SocketIO` was merged successfully.
 
 #### 🌱 Learning
-I’m learning Rust & Clojure using [Exercises from Exercism.io](https://exercism.org/tracks/rust).
+- I'm learning Rust and recently completed solving [Rustlings](https://github.com/rust-lang/rustlings) exercises.
+- I am also learning Clojure using [Exercism.io](https://exercism.org/tracks/clojure) exercises.
 
 #### 📫 Contact Information
 - Email: sohangchopra@gmail.com
