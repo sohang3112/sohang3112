@@ -2,11 +2,14 @@
 <!--
 Commenting this out because it's showing bad score right now :(
 
-[![Sohang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohang3112&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Sohang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohang3112&show_icons=true&theme=gruvbox_light&hide=ipynb)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<!-- TODO: Show more languages here -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohang3112&hide=SCSS&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+Commenting this out - seems outdated (doesn't seem to include languages in Open Source Pull Requests), also shows "Jupyter Notebook" as a language.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohang3112&hide=SCSS&layout=compact&theme=gruvbox_light?hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 #### 💼 Work Experience
 I am a Software Engineer at [MFilterIt](https://www.mfilterit.com/), where I build data science & machine learning APIs using Python and AWS.
