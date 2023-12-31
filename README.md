@@ -11,7 +11,8 @@ Commenting this out because it's showing bad score right now :(
 #### 💼 Work Experience
 I am a Software Engineer at [MFilterIt](https://www.mfilterit.com/), where I build data science & machine learning APIs using Python and AWS.
 
-#### 👯 Open Source Contributions
+#### 👯 [Open Source Contributions](https://github.com/search?q=author%3Asohang3112%20is%3Apr%20is%3Amerged&type=pullrequests)
+I have contributed to serveral Open Source projects, some of which are:
 - I forked & revived this abandoned project: [IForth (Jupyter Kernel for Forth language)](https://github.com/sohang3112/iforth).
 - Recently [my pull request](https://github.com/python/typeshed/pull/10735) to add Python typing stubs for `Flask-SocketIO` was merged successfully.
 
