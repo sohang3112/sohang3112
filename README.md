@@ -20,6 +20,7 @@ During my free time, I read many books (technical and otherwise). Recently I sta
 I have contributed to several Open Source projects, some of which are:
 - I forked & revived this abandoned project: [IForth (Jupyter Kernel for Forth language)](https://github.com/sohang3112/iforth).
 - Recently [my pull request](https://github.com/python/typeshed/pull/10735) to add Python typing stubs for `Flask-SocketIO` was merged successfully.
+**Note:** All my projects' statuses are noted [here](https://github.com/sohang3112/sohang3112.github.io/issues/9).
 
 #### 🌱 Learning
 - I'm learning Rust and recently completed solving [Rustlings](https://github.com/rust-lang/rustlings) exercises.
@@ -35,18 +36,3 @@ I have contributed to several Open Source projects, some of which are:
 - Code Golf using [APL](https://tryapl.org) is too much fun - [try it!](https://codegolf.stackexchange.com)
 - I love to read a diverse range of genres, both fiction & non-fiction.
 - My favourite sport is chess - I'm always ready for a chess match! 🙂
-
-<!--
-**sohang3112/sohang3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
