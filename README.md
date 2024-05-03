@@ -5,9 +5,6 @@ Commenting this out because it's showing bad score right now :(
 [![Sohang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohang3112&show_icons=true&theme=gruvbox_light&hide=ipynb)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<!--
-Commenting this out - seems outdated (doesn't seem to include languages in Open Source Pull Requests), and also shows "Jupyter Notebook" as a language.
--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohang3112&hide=scss,jupyter%20notebook&layout=compact&theme=gruvbox_light)
 
 #### 💼 Work Experience
@@ -29,10 +26,10 @@ I have contributed to several Open Source projects, some of which are:
 - I am also learning Clojure using [Exercism.io](https://exercism.org/tracks/clojure) exercises.
 
 #### 📫 Contact Information
-- Email: sohangchopra@gmail.com
-- Linkedin: www.linkedin.com/in/sohang-chopra
-- Reddit: https://www.reddit.com/user/sohang-3112
-- Twitter: https://twitter.com/ChopraSohang
+- <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="15" height="15"> Email: sohangchopra@gmail.com
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="15" height="15"> Linkedin: www.linkedin.com/in/sohang-chopra
+- <img src="https://toppng.com/uploads/preview/reddit-logo-reddit-icon-115628658968pe8utyxjt.png" width="15" height="15"> Reddit: https://www.reddit.com/user/sohang-3112
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" width="15" height="15"> Twitter: https://twitter.com/ChopraSohang
 
 #### ⚡ Fun Facts
 - Code Golf using [APL](https://tryapl.org) is too much fun - [try it!](https://codegolf.stackexchange.com)
