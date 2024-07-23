@@ -10,19 +10,19 @@ Commenting this out because it's showing bad score right now :(
 #### 💼 Work Experience
 I am a Software Engineer at [MFilterIt](https://www.mfilterit.com/), where I build data science & machine learning backend APIs using Python and AWS.
 
-#### ✍️ My Blog
+#### ✍️ [My Blog Website](https://sohang3112.github.io/)
 During my free time, I read many books (technical and otherwise). Recently I started writing my [blog](https://sohang3112.github.io/) by reviewing the book **Blood, Sweat, and Pixels** about video game development - check it [here](https://sohang3112.github.io/blood-sweat-and-pixels-book-review/).
 
 #### 👯 [Open Source Contributions](https://github.com/search?q=author%3Asohang3112%20is%3Apr%20is%3Amerged&type=pullrequests)
 I have contributed to several Open Source projects, some of which are:
-- `ngn/apl` (an online [APL](https://en.wikipedia.org/wiki/APL_(programming_language)) interpreter): [PR](https://github.com/abrudz/ngn-apl/pull/3) to allow [installation](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DDesktop) offline on a computer or phone as a [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+- `ngn/apl` (an online interpreter for [APL programming language](https://en.wikipedia.org/wiki/APL_(programming_language))): [PR](https://github.com/abrudz/ngn-apl/pull/3) to allow [installation](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DDesktop) offline on a computer or phone as a [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
 - Python `typeshed`: [PR](https://github.com/python/typeshed/pull/10735) to add type stubs for `Flask-SocketIO` that can be used by static type analyzer tools like `mypy`.
 - `tldr-pages`: Added pages showing common usage examples for commands: [`rlwrap`](https://github.com/tldr-pages/tldr/pull/11941), [`systool`](https://github.com/tldr-pages/tldr/pull/13096)
 - `macrokata` (Rust macro exercises): Corrected Rust compile error in an exercise in [this PR](https://github.com/tfpk/macrokata/pull/26)
 - Zeromq website: [PR](https://github.com/zeromq/zeromq.org/pull/140) to add an example of Zeromq client & server in Haskell.
 
 #### 🛠️ Projects
-- [IForth](https://github.com/sohang3112/iforth): It's a Jupyter kernel for [Forth language](https://en.wikipedia.org/wiki/Forth_(programming_language)), so it allows you to run Forth code in Jupyter notebooks. I forked it from an abandoned repo and added features like syntax highlighting, better error handling, uploading to PyPI, etc.
+- [IForth](https://github.com/sohang3112/iforth): It's a Jupyter kernel for [Forth programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)), so it allows you to run Forth code in Jupyter notebooks. I forked it from an abandoned repo and added features like syntax highlighting, better error handling, uploading to PyPI, etc.
 
 **Note:** All my projects' statuses are noted [here](https://github.com/sohang3112/sohang3112.github.io/issues/9).
 
