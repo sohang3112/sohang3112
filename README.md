@@ -5,7 +5,7 @@ Commenting this out because it's showing bad score right now :(
 [![Sohang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohang3112&show_icons=true&theme=gruvbox_light&hide=ipynb)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohang3112&hide=html,scss,markdown,jupyter%20notebook&layout=compact&theme=gruvbox_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohang3112&hide=html,scss,markdown,shell,jupyter%20notebook&layout=compact&theme=gruvbox_light)
 
 #### 💼 Work Experience
 I am a Software Engineer at [MFilterIt](https://www.mfilterit.com/), where I build data science & machine learning backend APIs using Python and AWS.
