@@ -15,10 +15,12 @@ During my free time, I read many books (technical and otherwise). Recently I sta
 
 #### 👯 [Open Source Contributions](https://github.com/search?q=author%3Asohang3112%20is%3Apr%20is%3Amerged&type=pullrequests)
 I have contributed to several Open Source projects, some of which are:
-- I forked & revived [IForth (Jupyter Kernel for Forth language)](https://github.com/sohang3112/iforth) and added features like syntax highlighting, highlighted error messages, `Dockerfile`, etc. .
 - I [contributed a PR to `ngn/apl`](https://github.com/abrudz/ngn-apl/pull/3) that allows it to be [installed](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DDesktop) offline on a computer or phone as a [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
 - Recently [my pull request](https://github.com/python/typeshed/pull/10735) to add Python typing stubs for `Flask-SocketIO` was merged successfully.
-  
+
+#### Projects
+- [IForth](https://github.com/sohang3112/iforth): It's a Jupyter kernel for [Forth language](https://en.wikipedia.org/wiki/Forth_(programming_language)), so it allows you to run Forth code in Jupyter notebooks. I forked it from an abandoned repo and added features like syntax highlighting, better error handling, uploading to PyPI, etc.
+
 **Note:** All my projects' statuses are noted [here](https://github.com/sohang3112/sohang3112.github.io/issues/9).
 
 #### 🌱 Learning
