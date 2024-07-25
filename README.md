@@ -7,11 +7,8 @@ Commenting this out because it's showing bad score right now :(
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohang3112&hide=html,scss,markdown,shell,jupyter%20notebook&layout=compact&theme=gruvbox_light)
 
-#### 💼 Work Experience
-I am a Software Engineer at [MFilterIt](https://www.mfilterit.com/), where I build data science & machine learning backend APIs using Python and AWS.
-
-#### ✍️ [My Blog Website](https://sohang3112.github.io/)
-During my free time, I read many books (technical and otherwise). Recently I started writing my [blog](https://sohang3112.github.io/) by reviewing the book **Blood, Sweat, and Pixels** about video game development - check it [here](https://sohang3112.github.io/blood-sweat-and-pixels-book-review/).
+Hi everyone 👋. I am a Software Engineer at [MFilterIt](https://www.mfilterit.com/), where I build data science & machine learning backend APIs using Python and AWS. 
+I also write a technical blog on various Software Engineering topics - check it out: https://sohang3112.github.io/
 
 #### 👯 [Open Source Contributions](https://github.com/search?q=author%3Asohang3112%20is%3Apr%20is%3Amerged&type=pullrequests)
 I have contributed to several Open Source projects, some of which are:
