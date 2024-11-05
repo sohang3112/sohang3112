@@ -7,14 +7,14 @@ Commenting this out because it's showing bad score right now :(
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohang3112&hide=html,scss,markdown,shell,jupyter%20notebook&layout=compact&theme=gruvbox_light)
 
-Hi everyone 👋. I am a Software Engineer at [MFilterIt](https://www.mfilterit.com/), where I build data science & machine learning backend APIs using Python and AWS. 
+Hi everyone 👋. I am a Software Engineer who mainly works with Python on backend apis and Data Science. 
 I also write a technical blog on various Software Engineering topics - check it out: https://sohang3112.github.io/
 
 #### 👯 [Open Source Contributions](https://github.com/search?q=author%3Asohang3112%20is%3Apr%20is%3Amerged&type=pullrequests)
 I have contributed to several Open Source projects, some of which are:
 - `ngn/apl` (an online interpreter for [APL programming language](https://en.wikipedia.org/wiki/APL_(programming_language))): [PR](https://github.com/abrudz/ngn-apl/pull/3) to allow [installation](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DDesktop) offline on a computer or phone as a [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
 - Python `typeshed`: [PR](https://github.com/python/typeshed/pull/10735) to add type stubs for `Flask-SocketIO` that can be used by static type analyzer tools like `mypy`.
-- `tldr-pages`: Added pages showing common usage examples for commands: [`rlwrap`](https://github.com/tldr-pages/tldr/pull/11941), [`systool`](https://github.com/tldr-pages/tldr/pull/13096), also [added `htop --tree` example](https://github.com/tldr-pages/tldr/pull/13303).
+- `tldr-pages`: Added pages showing common usage examples for commands: [`rlwrap`](https://github.com/tldr-pages/tldr/pull/11941), [`systool`](https://github.com/tldr-pages/tldr/pull/13096), also [added `htop --tree` example](https://github.com/tldr-pages/tldr/pull/13303), [`ghcid`](https://github.com/tldr-pages/tldr/pull/14611).
 - `macrokata` (Rust macro exercises): Corrected Rust compile error in an exercise in [this PR](https://github.com/tfpk/macrokata/pull/26)
 - Zeromq website: [PR](https://github.com/zeromq/zeromq.org/pull/140) to add an example of Zeromq client & server in Haskell.
 
