@@ -14,7 +14,7 @@ I also write a technical blog on various Software Engineering topics - check it 
 I have contributed to several Open Source projects, some of which are:
 - `ngn/apl` (an online interpreter for [APL programming language](https://en.wikipedia.org/wiki/APL_(programming_language))): [PR](https://github.com/abrudz/ngn-apl/pull/3) to allow [installation](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DDesktop) offline on a computer or phone as a [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
 - Python `typeshed`: [PR](https://github.com/python/typeshed/pull/10735) to add type stubs for `Flask-SocketIO` that can be used by static type analyzer tools like `mypy`.
-- `tldr-pages`: Added pages showing common usage examples for commands: [`rlwrap`](https://github.com/tldr-pages/tldr/pull/11941), [`systool`](https://github.com/tldr-pages/tldr/pull/13096), also [added `htop --tree` example](https://github.com/tldr-pages/tldr/pull/13303), [`ghcid`](https://github.com/tldr-pages/tldr/pull/14611).
+- `tldr-pages`: Added pages showing common usage examples for commands: [`rlwrap`](https://github.com/tldr-pages/tldr/pull/11941), [`systool`](https://github.com/tldr-pages/tldr/pull/13096), [`ghcid`](https://github.com/tldr-pages/tldr/pull/14611), also [added `htop --tree` example](https://github.com/tldr-pages/tldr/pull/13303).
 - `macrokata` (Rust macro exercises): Corrected Rust compile error in an exercise in [this PR](https://github.com/tfpk/macrokata/pull/26)
 - Zeromq website: [PR](https://github.com/zeromq/zeromq.org/pull/140) to add an example of Zeromq client & server in Haskell.
 
