@@ -12,11 +12,15 @@ I also write a technical blog on various Software Engineering topics - check it 
 
 #### 👯 [Open Source Contributions](https://github.com/search?q=author%3Asohang3112%20is%3Apr%20is%3Amerged&type=pullrequests)
 I have contributed to several Open Source projects, some of which are:
-- `ngn/apl` (an online interpreter for [APL programming language](https://en.wikipedia.org/wiki/APL_(programming_language))): [PR](https://github.com/abrudz/ngn-apl/pull/3) to allow [installation](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DDesktop) offline on a computer or phone as a [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
-- Python `typeshed`: [PR](https://github.com/python/typeshed/pull/10735) to add type stubs for `Flask-SocketIO` that can be used by static type analyzer tools like `mypy`.
-- `tldr-pages`: Added pages showing common usage examples for commands: [`rlwrap`](https://github.com/tldr-pages/tldr/pull/11941), [`systool`](https://github.com/tldr-pages/tldr/pull/13096), [`ghcid`](https://github.com/tldr-pages/tldr/pull/14611), [`dnf group`](https://github.com/tldr-pages/tldr/pull/14958), also [added `htop --tree` example](https://github.com/tldr-pages/tldr/pull/13303).
-- `macrokata` (Rust macro exercises): Corrected Rust compile error in an exercise in [this PR](https://github.com/tfpk/macrokata/pull/26)
-- Zeromq website: [PR](https://github.com/zeromq/zeromq.org/pull/140) to add an example of Zeromq client & server in Haskell.
+
+| Language | Repository  | Contribution (merged pull request) |
+| -------- | ----------- | ---------------------------------- |
+| JavaScript | [`ngn/apl`](https://github.com/abrudz/ngn-apl): web REPL for APL language | [Install as Progressive Web App (PWA)](https://github.com/abrudz/ngn-apl/pull/3) so that it works offline on mobile. |
+| Python | [`typeshed`](https://github.com/python/typeshed): type hints, used by static analyzers like `mypy` | [Add stubs for `Flask-SocketIO`](https://github.com/python/typeshed/pull/10735). |
+| Rust | [`macrokata`](https://github.com/tfpk/macrokata): macro exercises | [Correct compile error in an exercise](https://github.com/tfpk/macrokata/pull/26). |
+| Haskell | [Zeromq website](https://github.com/zeromq/zeromq.org) | [Add Hello World example in Haskell](https://github.com/zeromq/zeromq.org/pull/140). |
+| Documentation | [`tldr-pages`](https://github.com/tldr-pages/tldr): shows common command examples | Added pages for [`rlwrap`](https://github.com/tldr-pages/tldr/pull/11941), [`systool`](https://github.com/tldr-pages/tldr/pull/13096), [`ghcid`](https://github.com/tldr-pages/tldr/pull/14611), [`dnf group`](https://github.com/tldr-pages/tldr/pull/14958), also [added `htop --tree` example](https://github.com/tldr-pages/tldr/pull/13303). |
+| Documentation | [Stay-Awake](https://github.com/Johnson468/Stay-Awake): prevent laptop from going idle with random mouse movements | [Add script running command to README](https://github.com/Johnson468/Stay-Awake/pull/7) |
 
 **IMPORTANT NOTE TO SELF**: PRs on the following open source issues are *Work in Progress* (I asked to work on them and got go ahead from repo maintainer) - so finish these (in order of most to least finished/work done till now):
 - *C*: [2048.c CLI: add --help, --version](https://github.com/mevdschee/2048.c/issues/56)
