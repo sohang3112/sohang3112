@@ -18,6 +18,10 @@ I have contributed to several Open Source projects, some of which are:
 - `macrokata` (Rust macro exercises): Corrected Rust compile error in an exercise in [this PR](https://github.com/tfpk/macrokata/pull/26)
 - Zeromq website: [PR](https://github.com/zeromq/zeromq.org/pull/140) to add an example of Zeromq client & server in Haskell.
 
+**IMPORTANT NOTE TO SELF**: PRs on the following open source issues are *Work in Progress* (I asked to work on them and got go ahead from repo maintainer) - so finish these (in order of most to least finished/work done till now):
+- *Haskell*: [tldr-hs: Add --list argument to list all pages](https://github.com/psibi/tldr-hs/issues/47)
+- *Rust*: [Rustup: Show installed path of Rust components (sources, docs, Clippy)](https://github.com/rust-lang/rustup/issues/3382)
+
 #### 🛠️ Projects
 - [IForth](https://github.com/sohang3112/iforth): It's a Jupyter kernel for [Forth programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)), so it allows you to run Forth code in Jupyter notebooks. I forked it from an abandoned repo and added features like syntax highlighting, better error handling, uploading to PyPI, etc.
 
