@@ -19,6 +19,7 @@ I have contributed to several Open Source projects, some of which are:
 - Zeromq website: [PR](https://github.com/zeromq/zeromq.org/pull/140) to add an example of Zeromq client & server in Haskell.
 
 **IMPORTANT NOTE TO SELF**: PRs on the following open source issues are *Work in Progress* (I asked to work on them and got go ahead from repo maintainer) - so finish these (in order of most to least finished/work done till now):
+- *C*: [2048.c CLI: add --help, --version](https://github.com/mevdschee/2048.c/issues/56)
 - *Haskell*: [tldr-hs: Add --list argument to list all pages](https://github.com/psibi/tldr-hs/issues/47)
 - *Rust*: [Rustup: Show installed path of Rust components (sources, docs, Clippy)](https://github.com/rust-lang/rustup/issues/3382)
 
