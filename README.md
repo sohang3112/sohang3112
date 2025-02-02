@@ -16,7 +16,7 @@ I have contributed to several Open Source projects, some of which are:
 | Language | Repository  | Contribution (merged pull request) |
 | -------- | ----------- | ---------------------------------- |
 | JavaScript | [`ngn/apl`](https://github.com/abrudz/ngn-apl): web REPL for APL language | [Install as Progressive Web App (PWA)](https://github.com/abrudz/ngn-apl/pull/3) so it works offline. |
-| C | [2048.c](https://github.com/mevdschee/2048.c): cli game | [add --help, --version cli flags](https://github.com/mevdschee/2048.c/issues/56) |
+| C | [2048.c](https://github.com/mevdschee/2048.c): cli game | [add cli flags](https://github.com/mevdschee/2048.c/issues/56): `--help` & `--version` |
 | Python | [`typeshed`](https://github.com/python/typeshed): has type hints used by `mypy`, VS Code, etc. | [Add stubs for `Flask-SocketIO`](https://github.com/python/typeshed/pull/10735). |
 | Rust | [`macrokata`](https://github.com/tfpk/macrokata): macro exercises | [Correct compile error in an exercise](https://github.com/tfpk/macrokata/pull/26). |
 | Haskell | [Zeromq website](https://github.com/zeromq/zeromq.org) | [Add Zeromq Hello World example in Haskell](https://github.com/zeromq/zeromq.org/pull/140). |
