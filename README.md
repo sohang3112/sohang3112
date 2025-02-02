@@ -16,6 +16,7 @@ I have contributed to several Open Source projects, some of which are:
 | Language | Repository  | Contribution (merged pull request) |
 | -------- | ----------- | ---------------------------------- |
 | JavaScript | [`ngn/apl`](https://github.com/abrudz/ngn-apl): web REPL for APL language | [Install as Progressive Web App (PWA)](https://github.com/abrudz/ngn-apl/pull/3) so it works offline. |
+| C | [2048.c](https://github.com/mevdschee/2048.c): cli game | [add --help, --version cli flags](https://github.com/mevdschee/2048.c/issues/56) |
 | Python | [`typeshed`](https://github.com/python/typeshed): has type hints used by `mypy`, VS Code, etc. | [Add stubs for `Flask-SocketIO`](https://github.com/python/typeshed/pull/10735). |
 | Rust | [`macrokata`](https://github.com/tfpk/macrokata): macro exercises | [Correct compile error in an exercise](https://github.com/tfpk/macrokata/pull/26). |
 | Haskell | [Zeromq website](https://github.com/zeromq/zeromq.org) | [Add Zeromq Hello World example in Haskell](https://github.com/zeromq/zeromq.org/pull/140). |
@@ -24,7 +25,6 @@ I have contributed to several Open Source projects, some of which are:
 
 **IMPORTANT NOTE TO SELF**: PRs on the following open source issues are *Work in Progress* (I asked to work on them and got go ahead from repo maintainer) so finish these (in order of most to least finished/work done till now):
 - *C++, Windows*: [Notepad++: fit popup window to screen height](https://github.com/notepad-plus-plus/notepad-plus-plus/issues/14430#issuecomment-2629111330) 
-- *C*: [2048.c CLI: add --help, --version](https://github.com/mevdschee/2048.c/issues/56)
 - *Haskell*: [tldr-hs: Add --list argument to list all pages](https://github.com/psibi/tldr-hs/issues/47)
 - *Rust*: [Rustup: Show installed path of Rust components (sources, docs, Clippy)](https://github.com/rust-lang/rustup/issues/3382)
 
