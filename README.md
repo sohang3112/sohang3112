@@ -22,7 +22,8 @@ I have contributed to several Open Source projects, some of which are:
 | Documentation | [`tldr-pages`](https://github.com/tldr-pages/tldr): shows common command examples | Added pages for [`rlwrap`](https://github.com/tldr-pages/tldr/pull/11941), [`systool`](https://github.com/tldr-pages/tldr/pull/13096), [`ghcid`](https://github.com/tldr-pages/tldr/pull/14611), [`dnf group`](https://github.com/tldr-pages/tldr/pull/14958), also [added `htop --tree` example](https://github.com/tldr-pages/tldr/pull/13303). |
 | Documentation | [Stay-Awake](https://github.com/Johnson468/Stay-Awake): prevent laptop from going idle with random mouse movements | README: [Add script running command](https://github.com/Johnson468/Stay-Awake/pull/7) |
 
-**IMPORTANT NOTE TO SELF**: PRs on the following open source issues are *Work in Progress* (I asked to work on them and got go ahead from repo maintainer) - so finish these (in order of most to least finished/work done till now):
+**IMPORTANT NOTE TO SELF**: PRs on the following open source issues are *Work in Progress* (I asked to work on them and got go ahead from repo maintainer) so finish these (in order of most to least finished/work done till now):
+- *C++, Windows*: [Notepad++: fit popup window to screen height](https://github.com/notepad-plus-plus/notepad-plus-plus/issues/14430#issuecomment-2629111330) 
 - *C*: [2048.c CLI: add --help, --version](https://github.com/mevdschee/2048.c/issues/56)
 - *Haskell*: [tldr-hs: Add --list argument to list all pages](https://github.com/psibi/tldr-hs/issues/47)
 - *Rust*: [Rustup: Show installed path of Rust components (sources, docs, Clippy)](https://github.com/rust-lang/rustup/issues/3382)
