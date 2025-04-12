@@ -31,6 +31,9 @@ I have contributed to several Open Source projects, some of which are:
 Additional:
 - WAITING TO BE ASSIGNED (LLM/DS/AI/ML repo -- exactly the kind I *should* contribute to for help in my career!!) - https://github.com/ollama/ollama/issues/8700
 
+**TODO:** [`ptghci`](https://github.com/litxio/ptghci/) repo seems abandoned (last commit in 2022) - fork & start working on it.
+*Haskell* also has a significant community likely to be interested, so big plus! 
+
 #### 🛠️ Projects
 - [IForth](https://github.com/sohang3112/iforth): It's a Jupyter kernel for [Forth programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)), so it allows you to run Forth code in Jupyter notebooks. I forked it from an abandoned repo and added features like syntax highlighting, better error handling, uploading to PyPI, etc.
 
