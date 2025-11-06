@@ -23,6 +23,7 @@ I have contributed to several Open Source projects, some of which are:
 | Haskell | [Zeromq website](https://github.com/zeromq/zeromq.org) | [Add Zeromq Hello World example in Haskell](https://github.com/zeromq/zeromq.org/pull/140). |
 | Documentation | [`tldr-pages`](https://github.com/tldr-pages/tldr): shows common command examples | Added pages for [`rlwrap`](https://github.com/tldr-pages/tldr/pull/11941), [`systool`](https://github.com/tldr-pages/tldr/pull/13096), [`ghcid`](https://github.com/tldr-pages/tldr/pull/14611), [`dnf group`](https://github.com/tldr-pages/tldr/pull/14958), [`py`](https://github.com/tldr-pages/tldr/pull/16145#event-17221868790), also [added `htop --tree` example](https://github.com/tldr-pages/tldr/pull/13303). |
 | Documentation | [Stay-Awake](https://github.com/Johnson468/Stay-Awake): prevent laptop from going idle with random mouse movements | README: [Add script running command](https://github.com/Johnson468/Stay-Awake/pull/7) |
+| Documentation | [Alabaster: minimal VS Code syntax theme](https://github.com/tonsky/vscode-theme-alabaster/) | [README: Add extension url in install](https://github.com/tonsky/vscode-theme-alabaster/pull/40) |
 
 **IMPORTANT NOTE TO SELF**: PRs on the following open source issues are *Work in Progress* (I asked to work on them and got go ahead from repo maintainer) so finish these (in order of most to least finished/work done till now):
 - *C++, Windows*: [Notepad++: fit popup window to screen height](https://github.com/notepad-plus-plus/notepad-plus-plus/issues/14430#issuecomment-2629111330) 
