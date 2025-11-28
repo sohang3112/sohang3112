@@ -5,7 +5,12 @@ Commenting this out because it's showing bad score right now :(
 [![Sohang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohang3112&show_icons=true&theme=gruvbox_light&hide=ipynb)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--
+Commenting it out on suggestion of @akramcodez on Twitter (he said it's unnecessary): https://x.com/akramcodez/status/1994254056911466960?s=20
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohang3112&hide=html,scss,markdown,shell,jupyter%20notebook&layout=compact&theme=gruvbox_light)
+
+-->
 
 Hi everyone 👋. I am a Software Engineer who mainly works with Python on backend apis and Data Science. 
 I also write a technical blog on various Software Engineering topics - check it out: https://sohang3112.github.io/
@@ -42,7 +47,10 @@ Additional:
 **Note:** All my projects' statuses are noted [here](https://github.com/sohang3112/sohang3112.github.io/issues/9).
 
 #### 🌱 Learning
-- I'm learning Rust and recently completed solving [Rustlings](https://github.com/rust-lang/rustlings) exercises.
+Currently pursuing Master of Technology (Industrial Artificial Intelligence) at IIT Madras alongside job at HCL Technologies.
+In addition:
+
+- I'm learning Rust and solved all [Rustlings](https://github.com/rust-lang/rustlings) exercises.
 - I am also learning Clojure using [Exercism.io](https://exercism.org/tracks/clojure) exercises.
 
 #### 📫 Contact Information
