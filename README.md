@@ -38,7 +38,14 @@ I have contributed to several Open Source projects, some of which are:
 Additional:
 - WAITING TO BE ASSIGNED (LLM/DS/AI/ML repo -- exactly the kind I *should* contribute to for help in my career!!) - https://github.com/ollama/ollama/issues/8700
 
-**TODO:** [`ptghci`](https://github.com/litxio/ptghci/) repo seems abandoned (last commit in 2022) - fork & start working on it.
+##### Open Source TODO
+
+- **IMPORTANT NOTE TO SELF**: start contributing regularly to Astral's projects as they seem to offer very well paid remote jobs! Their projects are:
+  - `uv`: python build tool
+  - `ruff`: python linter
+  - `ty`: static type checker
+  - `pyx`: package registry
+- [`ptghci`](https://github.com/litxio/ptghci/) repo seems abandoned (last commit in 2022) - fork & start working on it.
 *Haskell* also has a significant community likely to be interested, so big plus! 
 
 #### 🛠️ Projects
