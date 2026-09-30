@@ -20,7 +20,7 @@ I have contributed to several Open Source projects, some of which are:
 
 | Language | Repository  | Contribution (merged pull request) |
 | -------- | ----------- | ---------------------------------- |
-| JavaScript | [`ngn/apl`](https://github.com/abrudz/ngn-apl): web REPL for APL language | [Install as Progressive Web App (PWA)](https://github.com/abrudz/ngn-apl/pull/3) so it works offline. |
+| JavaScript | [`ngn/apl`](https://github.com/abrudz/ngn-apl): web REPL for APL language | <ul> <li> [Install as Progressive Web App (PWA)](https://github.com/abrudz/ngn-apl/pull/3) so it works offline. </li> <li> [Save APL code & output across page reload](https://github.com/abrudz/ngn-apl/pull/6) </li> </ul> |
 | C | [2048.c](https://github.com/mevdschee/2048.c): cli game | [add cli flags](https://github.com/mevdschee/2048.c/issues/56): `--help` & `--version` |
 | Python | [PyTorch Lighting](https://github.com/Lightning-AI/pytorch-lightning) | [Correct example code in docs](https://github.com/Lightning-AI/pytorch-lightning/pull/21947)
 | Python | [`typeshed`](https://github.com/python/typeshed): has type hints used by `mypy`, VS Code, etc. | [Add stubs for `Flask-SocketIO`](https://github.com/python/typeshed/pull/10735). |
