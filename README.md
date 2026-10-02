@@ -1,4 +1,4 @@
-.### 👋 Hello Everyone! I'm Sohang Chopra
+### 👋 Hello Everyone! I'm Sohang Chopra
 <!--
 Commenting this out because it's showing bad score right now :(
 
