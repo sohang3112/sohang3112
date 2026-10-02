@@ -34,6 +34,7 @@ I have contributed to several Open Source projects, some of which are:
 
 #### 🛠️ Projects
 - [IForth](https://github.com/sohang3112/iforth): It's a Jupyter kernel for [Forth programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)), so it allows you to run Forth code in Jupyter notebooks. I forked it from an abandoned repo and added features like syntax highlighting, better error handling, uploading to PyPI, etc.
+- [VS Code PDF Viewer](https://github.com/sohang3112/vscode-pdfviewer): Displays PDF previews in VS Code. This is a fork of the default PDF extension *tomoki1207/vscode-pdfviewer*. I added ability to create text highlight annotations in the PDF. Raised [PR](https://github.com/tomoki1207/vscode-pdfviewer/pull/216) but the original repo seems abandoned, so I published my forked extension in VS Code Marketplace.
 
 **Note:** All my projects' statuses are noted [here](https://github.com/sohang3112/sohang3112.github.io/issues/9).
 
